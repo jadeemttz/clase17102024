@@ -48,8 +48,8 @@ container.appendChild(message);
 document.body.appendChild(container);
 
 //DATOS DE INICIO DE SESION PREDEFINIDA 
-const validarUser = 'Juanito';
-const validarPassword = '2589';
+const validarUser = 'jade';
+const validarPassword = '1234';
 
 //Validar el user y el password
 form.addEventListener('submit', (event) => {
